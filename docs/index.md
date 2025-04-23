@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: '小兔鲜儿小程序笔记'
-  text: '基于 VitePress 搭建的项目实战学习博客'
+  # text: '基于 VitePress 搭建的项目实战学习博客'
   tagline: '记录和总结小兔鲜儿小程序的开发过程与技术细节'
   actions:
     - theme: brand
